@@ -1,8 +1,9 @@
 # CrashCraft: Terminal Art from Stack Traces 🎨💥
 
-**Turns JavaScript errors into chaotic ASCII art and glitch poetry.** Built for Protocol 404's broken world, CrashCraft transforms mundane error messages into captivating terminal experiences. Embrace the beauty of failure!
+**Turns JavaScript errors into chaotic ASCII art and glitch poetry.** Built for [Protocol 404](https://protocol404.devpost.com/)'s broken world, CrashCraft transforms mundane error messages into captivating terminal experiences. <br>
+Embrace the beauty of failure!
 
-## Screenshots
+## 🖼️ Screenshots
 
 ![Example Output](./assets/broken&fix.png)
 
@@ -10,6 +11,8 @@
 
 ![super-chaos-flag](./assets/superchaos-flag.png)
 
+## 📹 Demo Video
+<video src="assets/crashcraft-edited.mp4" width="320" height="240" controls></video>
 
 ## ✨ Features
 
@@ -69,6 +72,13 @@ Will produce a file `super_crash.txt` containing a glorious, chaotic representat
 -   [Acorn](https://github.com/acornjs/acorn): JavaScript parser (for catching syntax errors)
 -   [fs/promises](https://nodejs.org/api/fs.html#fspromisesapi): File system operations
 -   [ron-swanson-quotes API](https://ron-swanson-quotes.herokuapp.com/): (SuperChaos mode)
+
+
+## Future improvements
+
+- Publish npm package of `crashcraft`.
+- Support cross-platform.
+- Better error catching and better more ASCII arts forms.
 
 ## 💡 Inspiration
 
