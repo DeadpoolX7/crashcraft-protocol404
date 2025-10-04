@@ -1,0 +1,16 @@
+{
+  "name": "crashcraft",
+  "module": "crashcraft.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/acorn": "^6.0.4",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "acron": "^1.0.5"
+  }
+}
