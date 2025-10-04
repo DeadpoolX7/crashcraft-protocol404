@@ -12,7 +12,7 @@ Embrace the beauty of failure!
 ![super-chaos-flag](./assets/superchaos-flag.png)
 
 ## 📹 Demo Video
-<video src="assets/crashcraft-edited.mp4" width="320" height="240" controls></video>
+[![Video Title](https://img.youtube.com/vi/uGQXsnrQ_YQ/0.jpg)](https://youtu.be/uGQXsnrQ_YQ)
 
 ## ✨ Features
 
