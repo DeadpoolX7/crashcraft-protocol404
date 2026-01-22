@@ -3,6 +3,11 @@
 **Turns JavaScript errors into chaotic ASCII art and glitch poetry.** Built for [Protocol 404](https://protocol404.devpost.com/)'s broken world, CrashCraft transforms mundane error messages into captivating terminal experiences. <br>
 Embrace the beauty of failure!
 
+---
+**🚨 UPDATE** crashcraft has won under [Kernel Panic Recognition](https://devpost.com/software/crashcraft) 🏆🥳
+
+---
+
 ## 🖼️ Screenshots
 
 ![Example Output](./assets/broken&fix.png)
