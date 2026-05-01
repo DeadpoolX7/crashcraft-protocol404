@@ -6,6 +6,10 @@ Embrace the beauty of failure!
 ---
 **🚨 UPDATE** crashcraft has won under [Kernel Panic Recognition](https://devpost.com/software/crashcraft) 🏆🥳
 
+![crashcraft-won](crashcraft.jpg)
+
+![c2](c2.jpg)
+
 ---
 
 ## 🖼️ Screenshots
